@@ -1,0 +1,300 @@
+[01:11:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:11:18] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:11:18] [Worker-Main-2/INFO]: Loaded 7 recipes
+[01:11:19] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[01:11:19] [Server thread/INFO]: Loading properties
+[01:11:19] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[01:11:20] [Server thread/INFO]: Debug logging is disabled
+[01:11:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:11:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:11:20] [Server thread/INFO]: Default game type: SURVIVAL
+[01:11:20] [Server thread/INFO]: Generating keypair
+[01:11:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:11:20] [Server thread/INFO]: Using epoll channel type
+[01:11:20] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.10.0
+[01:11:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:11:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.10.0
+[01:11:21] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[01:11:21] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[01:11:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[01:11:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[01:11:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[01:11:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:11:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:11:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:11:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:11:22] [Server thread/INFO]: Preparing level "world"
+[01:11:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:11:22] [Server thread/INFO]: Preparing spawn area: 0%
+[01:11:22] [Server thread/INFO]: Time elapsed: 414 ms
+[01:11:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:11:22] [Server thread/INFO]: Time elapsed: 169 ms
+[01:11:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:11:22] [Server thread/INFO]: Time elapsed: 195 ms
+[01:11:23] [Server thread/INFO]: Starting GS4 status listener
+[01:11:23] [Server thread/INFO]: Thread Query Listener started
+[01:11:23] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[01:11:23] [Server thread/INFO]: Running delayed init tasks
+[01:11:23] [Server thread/INFO]: Done (3.239s)! For help, type "help"
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.30
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[01:11:23] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[01:11:23] [Server thread/INFO]: Timings Reset
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.10.0[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mfcb9320[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[01:11:24] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[01:12:47] [User Authenticator #1/INFO]: UUID of player siomarakiut is a3698414-0ad8-3d79-a9d4-b35f25ab45af
+[01:12:47] [Server thread/INFO]: siomarakiut joined the game
+[01:12:47] [Server thread/INFO]: siomarakiut[/127.154.91.104:53541] logged in with entity id 301 at ([world]-149.5, 75.0, 72.5)
+[01:13:55] [Server thread/INFO]: You whisper to siomarakiut:  pera entro mi pc taq peta
+[01:15:04] [Server thread/INFO]: siomarakiut has made the advancement [Stone Age]
+[01:15:39] [Server thread/INFO]: siomarakiut has made the advancement [Getting an Upgrade]
+[01:16:42] [Server thread/INFO]: You whisper to siomarakiut: ta q peta mi pc ta modo motor
+[01:17:03] [Async Chat Thread - #0/INFO]: <siomarakiut> XD
+[01:17:38] [User Authenticator #2/INFO]: UUID of player RompOrTos is c5551972-6eb1-3fa6-b9af-c905864589e9
+[01:17:38] [Server thread/INFO]: RompOrTos joined the game
+[01:17:38] [Server thread/INFO]: RompOrTos[/127.49.104.71:36569] logged in with entity id 1183 at ([world]591.6857111132497, 78.0, -261.3139547044261)
+[01:17:47] [Async Chat Thread - #0/INFO]: <RompOrTos> xd ta petando mi pc
+[01:17:51] [Async Chat Thread - #0/INFO]: <RompOrTos> donde tas
+[01:17:57] [Async Chat Thread - #0/INFO]: <siomarakiut> ola
+[01:17:58] [Async Chat Thread - #0/INFO]: <siomarakiut> cerca
+[01:18:05] [Async Chat Thread - #0/INFO]: <RompOrTos> de donde p
+[01:18:07] [Async Chat Thread - #0/INFO]: <siomarakiut> XD
+[01:18:18] [Async Chat Thread - #0/INFO]: <RompOrTos> toy en 584 71 -270
+[01:18:21] [Async Chat Thread - #0/INFO]: <RompOrTos> xdd
+[01:18:31] [Async Chat Thread - #0/INFO]: <siomarakiut> que
+[01:18:58] [Async Chat Thread - #0/INFO]: <RompOrTos> o tamb haber si me divides 584 y -270 entre 8 hago portal y llego
+[01:19:07] [Async Chat Thread - #0/INFO]: <RompOrTos> xdd
+[01:19:17] [Async Chat Thread - #0/INFO]: <RompOrTos> toy aca con los aldeanos haciendo q follen p
+[01:19:22] [Async Chat Thread - #0/INFO]: <siomarakiut> XD
+[01:20:30] [Async Chat Thread - #1/INFO]: <RompOrTos> tienes cama
+[01:20:45] [Async Chat Thread - #1/INFO]: <siomarakiut> nopero estare bien kreo
+[01:20:46] [Async Chat Thread - #1/INFO]: <siomarakiut> jeje
+[01:20:50] [Async Chat Thread - #1/INFO]: <RompOrTos> xdd
+[01:20:57] [Async Chat Thread - #1/INFO]: <RompOrTos> tamb lo digo por los aldeanos p
+[01:21:06] [Async Chat Thread - #1/INFO]: <siomarakiut> a sitengo pa kama
+[01:21:08] [Async Chat Thread - #1/INFO]: <siomarakiut> ke nub
+[01:21:12] [Async Chat Thread - #1/INFO]: <RompOrTos> xd
+[01:21:20] [Async Chat Thread - #1/INFO]: <RompOrTos> duerme p
+[01:21:30] [Async Chat Thread - #1/INFO]: <RompOrTos> xd
+[01:21:34] [Server thread/INFO]: siomarakiut has made the advancement [Sweet Dreams]
+[01:21:42] [Async Chat Thread - #1/INFO]: <siomarakiut> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[01:21:44] [Async Chat Thread - #1/INFO]: <RompOrTos> xddddddddd
+[01:21:56] [Async Chat Thread - #1/INFO]: <RompOrTos> con el comando /skinrestorer te puedes poner skin p
+[01:22:07] [Async Chat Thread - #1/INFO]: <siomarakiut> asinomaz
+[01:22:11] [Async Chat Thread - #1/INFO]: <RompOrTos> aia
+[01:22:17] [Async Chat Thread - #1/INFO]: <RompOrTos> xd ta bien p
+[01:22:26] [Async Chat Thread - #1/INFO]: <RompOrTos> ya la espero voy por arena de almas
+[01:22:33] [Async Chat Thread - #1/INFO]: <RompOrTos> verdad
+[01:22:39] [Async Chat Thread - #1/INFO]: <RompOrTos> dime las coords del spawn p
+[01:22:48] [Async Chat Thread - #1/INFO]: <siomarakiut> ya me fui bienlejos
+[01:22:53] [Async Chat Thread - #1/INFO]: <RompOrTos> xdd
+[01:23:10] [Async Chat Thread - #1/INFO]: <RompOrTos> ya la espero nomas p
+[01:23:21] [Async Chat Thread - #1/INFO]: <RompOrTos> xdd
+[01:26:07] [Server thread/INFO]: siomarakiut has made the advancement [Monster Hunter]
+[01:28:26] [Async Chat Thread - #2/INFO]: <RompOrTos> por donde va xd
+[01:28:40] [Async Chat Thread - #2/INFO]: <siomarakiut> ejeje nose
+[01:28:51] [Async Chat Thread - #2/INFO]: <RompOrTos> xdd presiona f3 nomas
+[01:30:10] [Server thread/INFO]: RompOrTos has made the advancement [What a Deal!]
+[01:31:55] [Async Chat Thread - #3/INFO]: <siomarakiut> oda
+[01:31:58] [Async Chat Thread - #3/INFO]: <RompOrTos> xd
+[01:32:08] [Async Chat Thread - #3/INFO]: <RompOrTos> xd donde ta toy q talo
+[01:32:12] [Async Chat Thread - #3/INFO]: <siomarakiut> estoy en muymuy lejano
+[01:32:20] [Async Chat Thread - #3/INFO]: <RompOrTos> estos arboles siempre con forma de np
+[01:32:22] [Async Chat Thread - #3/INFO]: <RompOrTos> xdddd
+[01:32:31] [Async Chat Thread - #3/INFO]: <siomarakiut> xD
+[01:32:35] [Async Chat Thread - #3/INFO]: <RompOrTos> ya ahi la voy a buscar
+[01:32:39] [Async Chat Thread - #3/INFO]: <RompOrTos> deme sus coords p
+[01:32:56] [Async Chat Thread - #3/INFO]: <siomarakiut> kuales son
+[01:33:20] [Async Chat Thread - #3/INFO]: <RompOrTos> la x y la z p
+[01:33:36] [Async Chat Thread - #3/INFO]: <siomarakiut> voy pera
+[01:34:06] [Async Chat Thread - #3/INFO]: <RompOrTos> como seria el rap entre una persona con alzheimer una persona con parkison
+[01:34:22] [Async Chat Thread - #3/INFO]: <siomarakiut> sy
+[01:34:26] [Async Chat Thread - #3/INFO]: <RompOrTos> xd
+[01:34:43] [Async Chat Thread - #3/INFO]: <siomarakiut> oyie
+[01:34:46] [Async Chat Thread - #3/INFO]: <siomarakiut> ya salieron los salones
+[01:34:48] [Async Chat Thread - #3/INFO]: <siomarakiut> viste
+[01:34:51] [Async Chat Thread - #3/INFO]: <RompOrTos> si p
+[01:34:54] [Async Chat Thread - #3/INFO]: <RompOrTos> cual te toco
+[01:34:57] [Async Chat Thread - #3/INFO]: <RompOrTos> me olvide preguntar
+[01:34:59] [Async Chat Thread - #3/INFO]: <siomarakiut> el c creo
+[01:35:02] [Async Chat Thread - #3/INFO]: <RompOrTos> a mi el b
+[01:35:03] [Async Chat Thread - #3/INFO]: <siomarakiut> no me acuerdo xddxd
+[01:35:06] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd
+[01:35:06] [Async Chat Thread - #3/INFO]: <siomarakiut> aa
+[01:35:17] [Async Chat Thread - #3/INFO]: <RompOrTos> si p ta mas xd mi salon
+[01:35:25] [Async Chat Thread - #3/INFO]: <siomarakiut> qien esta
+[01:36:10] [Async Chat Thread - #3/INFO]: <RompOrTos> ta perea, febres, carlos y demas personajes del anime
+[01:36:13] [Async Chat Thread - #3/INFO]: <RompOrTos> pero no recuerdo
+[01:36:18] [Async Chat Thread - #3/INFO]: <siomarakiut> XDD
+[01:36:20] [Async Chat Thread - #3/INFO]: <RompOrTos> tu quien recuerdas p
+[01:36:22] [Async Chat Thread - #3/INFO]: <siomarakiut> god
+[01:36:27] [Async Chat Thread - #3/INFO]: <siomarakiut> el mio esta zzz
+[01:36:29] [Async Chat Thread - #3/INFO]: <siomarakiut> solo esta
+[01:36:37] [Async Chat Thread - #3/INFO]: <siomarakiut> bruno y sharen
+[01:36:43] [Async Chat Thread - #3/INFO]: <RompOrTos> si p toy god xddd
+[01:36:45] [Async Chat Thread - #3/INFO]: <RompOrTos> xddd
+[01:36:51] [Async Chat Thread - #3/INFO]: <RompOrTos> pero van a tar bien
+[01:37:09] [Async Chat Thread - #3/INFO]: <siomarakiut> en las listas salen los nuevos?
+[01:37:11] [Async Chat Thread - #3/INFO]: <RompOrTos> ete año es la ultima temporada de esta saga p
+[01:37:12] [Async Chat Thread - #3/INFO]: <siomarakiut> o no hay xdxddd
+[01:37:17] [Async Chat Thread - #3/INFO]: <RompOrTos> en mi salon si hay 1
+[01:37:24] [Async Chat Thread - #3/INFO]: <siomarakiut> en el mi9 ni uno
+[01:37:25] [Async Chat Thread - #3/INFO]: <RompOrTos> creo es mujer o trans p
+[01:37:28] [Async Chat Thread - #3/INFO]: <siomarakiut> XD
+[01:37:50] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd pero nose solo tengo 1 nomas
+[01:37:58] [Async Chat Thread - #3/INFO]: <RompOrTos> dicen en el a hay mas nuevos pera yaq p
+[01:37:58] [Async Chat Thread - #3/INFO]: <siomarakiut> q aburrido
+[01:38:04] [Async Chat Thread - #3/INFO]: <RompOrTos> verdad vuelve valentino
+[01:38:09] [Async Chat Thread - #3/INFO]: <RompOrTos> ta en mi salon xdd
+[01:38:09] [Async Chat Thread - #3/INFO]: <siomarakiut> qqqqqq
+[01:38:20] [Async Chat Thread - #3/INFO]: <siomarakiut> hoy gano el peru
+[01:38:31] [Async Chat Thread - #3/INFO]: <siomarakiut> ai
+[01:38:33] [Async Chat Thread - #3/INFO]: <RompOrTos> y los demas xdd se fueron varios personajes aunq normal tamb go preparse
+[01:38:36] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd
+[01:38:45] [Async Chat Thread - #3/INFO]: <siomarakiut> poqe se van ultimo año
+[01:38:54] [Async Chat Thread - #3/INFO]: <siomarakiut> purotaraoseva ultimoañio
+[01:38:59] [Server thread/INFO]: siomarakiut has made the advancement [Acquire Hardware]
+[01:39:04] [Async Chat Thread - #3/INFO]: <RompOrTos> xddd
+[01:39:15] [Async Chat Thread - #3/INFO]: <siomarakiut> pero tambien por eso no hay casi nuevo
+[01:39:16] [Async Chat Thread - #3/INFO]: <RompOrTos> aun asi
+[01:39:16] [Async Chat Thread - #3/INFO]: <siomarakiut> s
+[01:39:21] [Async Chat Thread - #3/INFO]: <siomarakiut> yo queria hacer nuevos amikos
+[01:39:25] [Async Chat Thread - #3/INFO]: <RompOrTos> xd
+[01:39:25] [Async Chat Thread - #3/INFO]: <siomarakiut> :'vvvvvv
+[01:39:33] [Async Chat Thread - #3/INFO]: <siomarakiut> no socializo ni en misalon que voy apoder en otros
+[01:39:36] [Async Chat Thread - #3/INFO]: <RompOrTos> pero si se han ido varios
+[01:39:43] [Async Chat Thread - #3/INFO]: <RompOrTos> si le sale
+[01:39:49] [Async Chat Thread - #3/INFO]: <siomarakiut> no me acuerdo ni uno de los que se fueron
+[01:39:53] [Async Chat Thread - #3/INFO]: <RompOrTos> xdddd
+[01:39:53] [Async Chat Thread - #3/INFO]: <siomarakiut> tampocome importa miucho
+[01:39:56] [Async Chat Thread - #3/INFO]: <siomarakiut> solo cordova
+[01:40:02] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd verdad cordova god
+[01:40:03] [Async Chat Thread - #3/INFO]: <siomarakiut> mi mami
+[01:40:06] [Async Chat Thread - #3/INFO]: <siomarakiut> :'vvvvvvv
+[01:40:12] [Async Chat Thread - #3/INFO]: <RompOrTos> creo tamb o no se si se va ir todos tamos go preparandonos
+[01:40:27] [Async Chat Thread - #3/INFO]: <RompOrTos> ta fea la cosa
+[01:40:30] [Async Chat Thread - #3/INFO]: <siomarakiut> se va a mudar o ya se mudo
+[01:40:32] [Async Chat Thread - #3/INFO]: <RompOrTos> puras ojeras wa tener
+[01:40:32] [Async Chat Thread - #3/INFO]: <siomarakiut> lejos
+[01:40:38] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd
+[01:40:43] [Async Chat Thread - #3/INFO]: <siomarakiut> XD
+[01:40:45] [Async Chat Thread - #3/INFO]: <RompOrTos> igual se le visita como llendo al cerro diria
+[01:40:52] [Async Chat Thread - #3/INFO]: <siomarakiut> XDD
+[01:40:53] [Async Chat Thread - #3/INFO]: <RompOrTos> yendo xd
+[01:41:08] [Async Chat Thread - #3/INFO]: <siomarakiut> le boi a regalar una foca watona pa ke no se olvide de suhija
+[01:41:17] [Async Chat Thread - #3/INFO]: <RompOrTos> pero veremos q tal va tar esta ultima temporada p
+[01:41:22] [Async Chat Thread - #3/INFO]: <RompOrTos> xdddd
+[01:41:25] [Async Chat Thread - #3/INFO]: <siomarakiut> no se komo boi a pasar este año
+[01:41:39] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd ya se le puede ayudar
+[01:41:45] [Async Chat Thread - #3/INFO]: <RompOrTos> yo le quiero regalar su boxer
+[01:41:47] [Async Chat Thread - #3/INFO]: <RompOrTos> pero uno bueno
+[01:41:49] [Async Chat Thread - #3/INFO]: <siomarakiut> XDDDDDDDDD
+[01:41:53] [Async Chat Thread - #3/INFO]: <RompOrTos> con este calor es una mrd p
+[01:42:16] [Async Chat Thread - #3/INFO]: <siomarakiut> elregalo pefekto
+[01:42:29] [Async Chat Thread - #3/INFO]: <RompOrTos> si p ya se nota uno ta sentado luego de 1 hora ya ta q le suda el culo p
+[01:42:36] [Async Chat Thread - #3/INFO]: <siomarakiut> XD
+[01:42:39] [Async Chat Thread - #3/INFO]: <RompOrTos> c gato de mrd se siente el cofre
+[01:42:41] [Async Chat Thread - #3/INFO]: <RompOrTos> sienta
+[01:42:55] [Server thread/INFO]: RompOrTos has made the advancement [The Parrots and the Bats]
+[01:43:10] [Async Chat Thread - #3/INFO]: <RompOrTos> ya ta
+[01:43:10] [Async Chat Thread - #3/INFO]: <siomarakiut> la miss susan se fueoke
+[01:43:17] [Async Chat Thread - #3/INFO]: <RompOrTos> si p xdd
+[01:43:21] [Async Chat Thread - #3/INFO]: <siomarakiut> noo
+[01:43:24] [Async Chat Thread - #3/INFO]: <RompOrTos> ya mucha funa no soportaba creo
+[01:43:32] [Async Chat Thread - #3/INFO]: <RompOrTos> si p
+[01:43:38] [Async Chat Thread - #3/INFO]: <siomarakiut> no me kaia bien pero me compraba mi chocoteja p
+[01:43:52] [Async Chat Thread - #3/INFO]: <RompOrTos> nomas espero q la nueva miss acepte las presentaciones con meme me wa divertir asi p
+[01:43:56] [Async Chat Thread - #3/INFO]: <RompOrTos> xddd
+[01:44:04] [Async Chat Thread - #3/INFO]: <siomarakiut> oie si
+[01:44:06] [Async Chat Thread - #3/INFO]: <RompOrTos> si p asi era susan p
+[01:44:32] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd luego del cole estudiar un pincho
+[01:44:47] [Async Chat Thread - #3/INFO]: <siomarakiut> lamierda
+[01:44:58] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd luego digo en la tarde p
+[01:45:00] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd
+[01:45:11] [Async Chat Thread - #3/INFO]: <RompOrTos> si p se pone feo pero se sale adelante p
+[01:45:23] [Async Chat Thread - #3/INFO]: <siomarakiut> noloze
+[01:45:29] [Async Chat Thread - #3/INFO]: <RompOrTos> ya lo mas divertido seran trigo, fisica y quimica para algun experimento
+[01:45:39] [Async Chat Thread - #3/INFO]: <siomarakiut> matematica lo bueno esq esta huaman
+[01:45:44] [Async Chat Thread - #3/INFO]: <siomarakiut> pero con la miss marcelina
+[01:45:47] [Async Chat Thread - #3/INFO]: <siomarakiut> si no entiendo nada
+[01:45:49] [Async Chat Thread - #3/INFO]: <siomarakiut> nimierda
+[01:45:54] [Async Chat Thread - #3/INFO]: <RompOrTos> como q no si poco a poco como vegetta sacandose el moco sale
+[01:46:05] [Async Chat Thread - #3/INFO]: <RompOrTos> xddd pero el tema es facil
+[01:46:20] [Async Chat Thread - #3/INFO]: <siomarakiut> pero yo no se nada de nada d ciencias
+[01:46:21] [Async Chat Thread - #3/INFO]: <RompOrTos> hasta pasado estequiometria donde ya se pasan de abusadores lo combinan todo
+[01:46:33] [Async Chat Thread - #3/INFO]: <RompOrTos> ese si me abusan pero la hacia
+[01:46:55] [Async Chat Thread - #3/INFO]: <RompOrTos> xddd ya le enseño hasta estructura de lewis y balanceo lo domino god
+[01:47:01] [Async Chat Thread - #3/INFO]: <siomarakiut> en 2024 o 23 fueron los ultimos meses que empezaron con ese tema la miss rocio
+[01:47:14] [Async Chat Thread - #3/INFO]: <siomarakiut> y justo ese tiempo me llego al webo ya tenia todo pasado
+[01:47:15] [Async Chat Thread - #3/INFO]: <RompOrTos> esa miss rocio, ya me trae malos y viejos recuerdos
+[01:47:22] [Async Chat Thread - #3/INFO]: <siomarakiut> XD
+[01:47:27] [Async Chat Thread - #3/INFO]: <RompOrTos> esa enseño recontra mal quimica organica
+[01:47:27] [Async Chat Thread - #3/INFO]: <siomarakiut> y no preste nada d atencion
+[01:47:39] [Async Chat Thread - #3/INFO]: <RompOrTos> ahorita q lo vi de nuevo mas facil esta
+[01:47:42] [Async Chat Thread - #3/INFO]: <siomarakiut> asikenose nadota
+[01:47:55] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd pero minimo acuerda de los carbonos p
+[01:47:59] [Async Chat Thread - #3/INFO]: <siomarakiut> nada
+[01:48:03] [Async Chat Thread - #3/INFO]: <siomarakiut> denada
+[01:48:08] [Async Chat Thread - #3/INFO]: <RompOrTos> ese examen de los embarazos p mas mrd
+[01:48:08] [Async Chat Thread - #3/INFO]: <siomarakiut> toi 0
+[01:48:11] [Async Chat Thread - #3/INFO]: <siomarakiut> XDDDDD
+[01:48:12] [Async Chat Thread - #3/INFO]: <RompOrTos> xddd
+[01:48:32] [Async Chat Thread - #3/INFO]: <RompOrTos> por las puras mejor hubieran puesto ciclo de creps p pa divertirnos xd
+[01:48:41] [Async Chat Thread - #3/INFO]: <RompOrTos> o ya reproduccion en animales
+[01:49:06] [Async Chat Thread - #3/INFO]: <siomarakiut> ii
+[01:49:09] [Async Chat Thread - #3/INFO]: <RompOrTos> xdddd normal se aprende facil eso, los videos de la cepre uni son god explican bien
+[01:49:14] [Async Chat Thread - #3/INFO]: <siomarakiut> sera
+[01:49:22] [Async Chat Thread - #3/INFO]: <siomarakiut> en matematicas nomas si pude remontar
+[01:49:25] [Async Chat Thread - #3/INFO]: <RompOrTos> xddd toncs si va a ver reproduccion en animales xd
+[01:49:27] [Async Chat Thread - #3/INFO]: <siomarakiut> pero ya no me acuerdo nada tampoco
+[01:49:31] [Async Chat Thread - #3/INFO]: <siomarakiut> me lo olvido muy rapido
+[01:49:37] [Server thread/WARN]: siomarakiut was kicked for floating too long!
+[01:49:37] [Server thread/INFO]: siomarakiut lost connection: Flying is not enabled on this server
+[01:49:37] [Server thread/INFO]: siomarakiut left the game
+[01:49:40] [Async Chat Thread - #3/INFO]: <RompOrTos> xddddd toncs si va aver reproduccion en animales, asi como en la san marcos
+[01:49:43] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd
+[01:49:55] [Async Chat Thread - #3/INFO]: <RompOrTos> xdd
+[02:01:55] [Async Chat Thread - #4/INFO]: <RompOrTos> 112 -336
+[02:21:27] [Server thread/WARN]: RompOrTos was kicked for floating too long!
+[02:21:27] [Server thread/INFO]: RompOrTos lost connection: Flying is not enabled on this server
+[02:21:27] [Server thread/INFO]: RompOrTos left the game
+[02:22:10] [Server thread/INFO]: Stopping the server
+[02:22:10] [Server thread/INFO]: Stopping server
+[02:22:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.10.0
+[02:22:10] [Server thread/INFO]: Saving players
+[02:22:10] [Server thread/INFO]: Saving worlds
+[02:22:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:22:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:22:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:22:10] [Server thread/INFO]: Flushing Chunk IO
+[02:22:10] [Server thread/INFO]: Closing Thread Pool
+[02:22:10] [Server thread/INFO]: Closing Server
